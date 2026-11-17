@@ -4,6 +4,6 @@ public class Main {
         double res;
         res = (double) a+b;
         System.out.println("sum = " + res);
-
+        System.out.println("Максим предложил хуйню");
     }
 }
