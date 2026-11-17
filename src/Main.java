@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Edd message for revert");
         Scanner scan = new Scanner(System.in);
         int inp = scan.nextInt();
         System.out.println("input = " + inp);
