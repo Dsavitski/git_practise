@@ -6,7 +6,7 @@ public class Main {
         int inp = scan.nextInt();
         System.out.println("input = " + inp);
         System.out.println("Start of program");
-        int a = 125,b = 5;
+        int a = 169,b = 21;
         double sum,diff,mult,div;
         sum = (double) a+b;
         System.out.println("sum = " + sum);
