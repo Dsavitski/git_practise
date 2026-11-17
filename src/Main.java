@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Cherry pick branch");
         Scanner scan = new Scanner(System.in);
         int inp = scan.nextInt();
         System.out.println("input = " + inp);
