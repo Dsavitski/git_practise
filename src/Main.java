@@ -17,5 +17,9 @@ public class Main {
         div = (double) a/b;
         System.out.println("div = " + div);
         System.out.println("End of program");
+        double res;
+        res = (double) a+b;
+        System.out.println("sum = " + res);
+        System.out.println("Максим предложил хуйню");
     }
 }
